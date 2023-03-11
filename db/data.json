@@ -1,0 +1,129 @@
+{
+    "chox satilan": [
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Purple",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Nokia X10, 64gb Deep green",
+            "name": "Nokia X10, 64 GB, \nDeep Green",
+            "price": "1360 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Xiaomi Poco M3 4-128gb yellow",
+            "name": "Xiaomi Poco M3 4/128Gb \nYellow (Global)",
+            "discount": "429.0 ₼",
+            "price": "389.0 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Realme 8pro 6-128gb black",
+            "name": "Realme 8 Pro 6/128Gb \nBlack",
+            "discount": "699.0 ₼",
+            "price": "649.0 ₼"
+        }
+    ],
+    "yeni gelen": [
+        {
+            "image": "../assets/Images/Phones/iphone 13 pro max 1tb blue.svg",
+            "name": "iPhone 13 Pro Max 1 TB \nSierra Blue",
+            "price": "4669 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 13 256gb midnight",
+            "name": "iPhone 13 256 GB \nMidnight",
+            "price": "2629 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Honor 10 128gb midnight",
+            "name": "Honor 10 128 GB \nMidnight Black",
+            "price": "799.9 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Samsung Galaxy Z Fold3 green",
+            "name": "Samsung Galaxy Z Fold3 (SM-F926) Green",
+            "price": "4199 ₼"
+        }
+    ],
+    "yeni mehsullar": [
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        },
+        {
+            "image": "../assets/Images/Phones/Iphone 12-64gb purple.svg",
+            "name": "Apple  iPhone 12, 64 GB, Bənövşəyi",
+            "discount": "3012 ₼",
+            "price": "2089 ₼"
+        }
+    ]
+}
